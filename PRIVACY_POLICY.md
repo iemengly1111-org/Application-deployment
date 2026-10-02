@@ -1,254 +1,187 @@
 # Privacy Policy
 
-**Version:** 2.0  
-**Effective Date:** 2026-10-02  
-**Last Updated:** 2026-10-02
+Version 2.1
+Effective Date: 2026-10-02
+Last Updated: 2026-10-02
 
----
+IeMengly ("we", "us", or "our") is committed to protecting the privacy of users who access or use our paid internal-only software and related services in Cambodia (the "Service").
 
-## 1. Introduction
+This Service is intended only for authorized employees, contractors, business partners, and enterprise users who have been granted access by IeMengly or by an organization with a valid agreement. We process personal data only as necessary to provide the Service, support billing and access control, maintain security, comply with legal obligations, and operate internal business processes.
 
-IeMengly ("we," "us," "our," or "Company") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our software, applications, services, and related platforms (collectively, the "Service").
+This Privacy Policy explains how we collect, use, store, share, and protect personal data. It does not replace any contract, employment agreement, enterprise agreement, or other legal document between you and IeMengly.
 
-**Contact Information:**
-- Email: iemengly1111@gmail.com
-- Organization: IeMengly
+Contact: iemengly1111@gmail.com
 
-Please read this Privacy Policy carefully. If you do not agree with our policies and practices, please do not use our Service.
+1. Scope of this Policy
 
----
+This Policy applies to:
+- employees and contractors of IeMengly;
+- authorized users of paid internal systems or tools;
+- enterprise customers and users with valid access under a paid agreement;
+- users whose data is processed in connection with the Service.
 
-## 2. Information We Collect
+This Policy does not apply to unrelated public websites, external marketing activities, or third-party services not controlled by IeMengly.
 
-### 2.1 Information You Provide Directly
-- **Account Information:** Name, email address, password, profile data, and account preferences
-- **Communication Data:** Messages, chat content, support requests, and feedback
-- **Payment Information:** Billing address, payment method (processed securely by third-party providers)
-- **User-Generated Content:** Any content you create or upload through the Service
+2. Information We Collect
 
-### 2.2 Information Collected Automatically
-- **Device Information:** Device model, OS version, device ID, unique identifiers
-- **Usage Data:** Feature usage, session duration, pages visited, interactions with the Service
-- **Network Data:** IP address, browser type, timestamps, request logs, referral information
-- **Diagnostic Data:** Crash reports, error logs, performance metrics, and reliability data
-- **Location Data:** Only with your explicit consent and where necessary for Service functionality
+We may collect the following categories of information:
 
-### 2.3 Information from Third Parties
-- Analytics providers
-- Payment processors
-- Authentication services
-- Cloud infrastructure providers
+2.1 Account and access information
+- full name;
+- email address;
+- username or employee ID;
+- department or role;
+- login information and authentication details;
+- access logs and account status.
 
-**Note:** We collect only information necessary to provide, maintain, and improve the Service.
+2.2 Usage and operational information
+- feature usage and session activity;
+- timestamps, logs, and activity records;
+- actions performed within the application;
+- files uploaded, created, or modified;
+- search queries and system interactions;
+- technical performance and diagnostic data.
 
----
+2.3 Technical and device information
+- device model and operating system;
+- browser or app version;
+- IP address and network metadata;
+- unique device identifiers;
+- crash reports, error logs, and system diagnostics.
 
-## 3. Legal Basis for Processing
+2.4 Billing and payment information
+- subscription type and billing cycle;
+- invoice and transaction records;
+- payment confirmation details;
+- billing address and payment reference data.
 
-We process personal data under the following legal bases:
+2.5 Communications and support information
+- support requests and messages;
+- email communications;
+- feedback or user reports;
+- chat or ticket content where applicable.
 
-- **Performance of a Contract:** To deliver the Service as agreed
-- **Legitimate Interests:** To improve security, prevent fraud, and optimize performance
-- **Consent:** Where you have explicitly agreed to specific processing activities
-- **Legal Obligation:** To comply with applicable laws and regulations
-- **Safety:** To protect the rights, privacy, and safety of users and the public
+We collect only the information needed to provide the Service, maintain security, support compliance, and manage user access.
 
----
+3. How We Use Information
 
-## 4. How We Use Information
+We use personal data to:
+- provide and maintain the Service;
+- authenticate users and manage access;
+- deliver paid features, licenses, and subscriptions;
+- process billing and account administration;
+- support technical operation, monitoring, and troubleshooting;
+- detect and prevent fraud, misuse, or unauthorized access;
+- maintain service integrity and security;
+- respond to support requests and operational issues;
+- comply with legal, contractual, and regulatory obligations;
+- maintain records necessary for audits, disputes, and business continuity.
 
-We use collected information to:
+We do not use personal data for unrelated marketing or resale purposes without clear consent or a valid legal basis.
 
-- Provide, operate, and maintain the Service
-- Authenticate users and manage access controls
-- Process transactions and send transactional communications
-- Personalize and improve user experience
-- Diagnose, prevent, and resolve technical issues
-- Conduct analytics and generate usage reports
-- Detect, investigate, and prevent fraud and security breaches
-- Comply with legal obligations and enforce agreements
-- Respond to user requests and provide customer support
-- Send updates, notifications, and promotional communications (with consent)
+4. Legal Basis for Processing
 
----
+We process personal data based on one or more of the following:
+- performance of a contract or agreement;
+- employment or contractor relationship where applicable;
+- legitimate business interests in operating and securing the Service;
+- compliance with legal or regulatory obligations;
+- explicit consent where required for optional processing activities.
 
-## 5. Data Sharing & Third Parties
+5. Data Sharing and Disclosure
 
-### 5.1 Service Providers
-We share information with trusted third parties who assist in operating the Service, including:
+We may share personal data with the following categories of recipients:
 
-- **Cloud Infrastructure Providers:** Data hosting and storage (e.g., AWS, Google Cloud, Azure)
-- **Analytics Providers:** Service improvement and performance monitoring
-- **Crash Reporting Tools:** Error diagnostics and reliability monitoring
-- **Authentication Providers:** Secure identity verification
-- **Payment Processors:** Secure transaction processing
-- **AI/ML Service Providers:** Service enhancement and personalization
+5.1 Internal personnel
+Data may be accessed only by employees or contractors who need it for their role, such as IT, security, finance, support, or management.
 
-### 5.2 Legal Requirements
-We may disclose information if required by:
-- Law enforcement or government agencies (with legal process)
-- Court orders or legal proceedings
-- Compliance with applicable laws and regulations
+5.2 Service providers
+We may use third-party providers for cloud hosting, payment processing, email delivery, authentication, analytics, backup, or crash reporting. These providers are used only to support the Service and are expected to protect data appropriately.
 
-### 5.3 Business Transfers
-If IeMengly is acquired, merges, or assets are sold, your information may be transferred as part of that transaction. We will notify you of any such change and any choices you may have.
+5.3 Legal and regulatory disclosures
+We may disclose personal data if required by law, court order, regulatory inquiry, or to protect the rights, safety, or security of users or IeMengly.
 
-### 5.4 What We Do NOT Do
-- We do **not** sell personal information to third parties
-- We do **not** share data for marketing purposes without consent
-- We do **not** disclose information to unvetted partners
+5.4 Business transfers
+If IeMengly is acquired, reorganized, or transferred, personal data may be part of the business assets involved in that transaction.
 
----
+We do not sell personal information.
 
-## 6. Data Retention
+6. Data Security
 
-We retain personal information only as long as necessary to provide the Service and fulfill the purposes outlined in this policy.
+We implement reasonable technical and organizational safeguards, including:
+- access controls and role-based permissions;
+- secure authentication and encryption in transit where applicable;
+- logging and auditing of account activity;
+- regular maintenance and availability monitoring;
+- staff awareness and internal security procedures;
+- secure backup and recovery practices.
 
-**Retention Periods:**
+No system is completely risk-free. While we take reasonable measures to protect personal data, we cannot guarantee absolute security against all threats.
 
-| Data Type | Retention Period |
-|-----------|------------------|
-| Account Information | While account active + 90 days post-closure (for legal/security) |
-| Chat & Message Content | Duration of account + 30 days (or per user request) |
-| Transaction Records | 7 years (for tax/financial compliance) |
-| Diagnostic & Crash Logs | 90 days |
-| Analytics Data | 12 months (aggregated/anonymized thereafter) |
-| Support Tickets | 2 years (for dispute resolution) |
+7. Data Retention
 
----
+We retain personal information only for as long as necessary to:
+- provide the Service;
+- fulfill contractual or legal obligations;
+- support billing, security, dispute resolution, and audit requirements;
+- operate the business in a lawful and responsible manner.
 
-## 7. Data Security
+Typical retention periods may include:
+- account and access records: while the account remains active and for a reasonable period after termination;
+- billing records: as required by applicable accounting and tax laws;
+- support and communication records: for operational and dispute-handling needs;
+- technical logs and diagnostics: for security and troubleshooting purposes;
+- employment or contractor records: in accordance with applicable labor and legal requirements.
 
-We implement technical, administrative, and organizational measures to protect your information:
+Data is deleted or anonymized when it is no longer needed, subject to any required legal retention period.
 
-- **Encryption:** Data encrypted in transit (TLS/SSL) and at rest
-- **Access Controls:** Role-based access, authentication, and authorization
-- **Monitoring:** Security event logging and intrusion detection
-- **Secure Architecture:** Regular security assessments and penetration testing
-- **Staff Training:** Employees trained on data protection and privacy practices
-- **Incident Response:** Documented procedures for security breach response
+8. Your Rights
 
-**Limitation:** No security method is 100% foolproof. We cannot guarantee absolute security but commit to industry-standard protections.
+Depending on the circumstances and applicable law, users may have the right to:
+- request access to their personal data;
+- request correction of inaccurate data;
+- request deletion of personal data, where lawful and appropriate;
+- request a copy of their data in a common electronic format;
+- restrict or object to certain processing activities;
+- withdraw consent for optional processing where consent is required.
 
----
+To make a request, please contact us at iemengly1111@gmail.com.
 
-## 8. User Rights & Data Subject Requests
+We will acknowledge requests promptly and respond within a reasonable timeframe, subject to any legal requirements or operational limitations.
 
-Depending on your jurisdiction (GDPR, CCPA, PIPEDA, etc.), you may have the right to:
+9. Employee, Contractor, and Enterprise User Data
 
-- **Access:** Request a copy of personal data we hold about you
-- **Correction:** Request correction of inaccurate or incomplete data
-- **Deletion:** Request deletion of personal data (subject to legal retention requirements)
-- **Portability:** Receive your data in a machine-readable format
-- **Restrict Processing:** Limit how we use your data
-- **Object:** Withdraw consent or object to certain processing activities
-- **Appeal:** Challenge decisions made about your data
+For employees, contractors, and authorized enterprise users, additional processing may be required for business administration, access control, security, and compliance. This processing is necessary to operate the Service and fulfill contractual or employment obligations.
 
-**To Submit a Request:**
+10. Third-Party Services
+
+The Service may rely on third-party services such as cloud hosting, payment processors, authentication systems, email services, backup providers, and diagnostics tools. These services operate under their own terms and privacy practices.
+
+We are not responsible for third-party providers' privacy practices, and users should review those policies where relevant.
+
+11. International Transfers
+
+Personal data may be transferred to servers or providers outside Cambodia when necessary for hosting, backup, or operation of the Service. We use reasonable safeguards and contractual measures, where applicable, to protect the data during such transfers.
+
+12. Cookies and Tracking Technologies
+
+We may use cookies, session identifiers, or similar technologies for authentication, security, session management, and service improvement. Users can manage browser settings to block or delete cookies, although this may affect some functionality.
+
+13. Updates to This Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the Service, legal requirements, or operational practices. Material changes will be communicated where appropriate.
+
+Continued use of the Service after an update indicates acceptance of the revised terms.
+
+14. Contact
+
+If you have questions, concerns, or requests related to this Privacy Policy, please contact:
+
+IeMengly
 Email: iemengly1111@gmail.com
 
-We will respond within 30 days (or as required by applicable law).
+15. Important Note
 
----
+This Privacy Policy is intended as a practical and professional template for a paid, internal-only service in Cambodia. It should be reviewed by legal counsel before final adoption, especially if the Service is used by multiple organizations, stores sensitive data, or is subject to additional regulatory requirements.
 
-## 9. Children's Privacy
-
-The Service is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
-
-- **Parents/Guardians:** If you believe we have collected information from a child under 13, please contact us immediately.
-- **For Services Used by Minors:** Additional protections apply, and parental consent may be required.
-
-Compliance varies by jurisdiction (COPPA in the US, Article 8 GDPR in EU, etc.).
-
----
-
-## 10. International Data Transfers
-
-We operate globally. Your information may be transferred to, stored in, and processed in countries other than your country of residence, which may have different data protection standards.
-
-**Safeguards:**
-- Standard Contractual Clauses (SCCs) under GDPR
-- Adequacy Decisions where applicable
-- Your explicit consent where required by law
-
-By using the Service, you consent to the transfer of your information to countries outside your country of residence.
-
----
-
-## 11. Third-Party Services & Links
-
-The Service may include links to or integrate third-party services, including:
-- Social media platforms
-- Payment gateways
-- Analytics tools
-- Cloud services
-
-We are **not responsible** for the privacy practices of third-party services. Please review their privacy policies before providing your information.
-
----
-
-## 12. Cookies & Tracking Technologies
-
-We may use cookies, web beacons, and similar technologies to:
-- Remember preferences
-- Track usage patterns
-- Authenticate users
-- Prevent fraud
-
-You can control cookies through your browser settings. Some features may not function properly if cookies are disabled.
-
----
-
-## 13. Marketing & Communications
-
-We may contact you with:
-- **Service Updates:** Important information about the Service
-- **Transactional Emails:** Confirmations, receipts, and password resets
-- **Promotional Content:** Offers, news, and updates (with your consent)
-
-You can unsubscribe from marketing emails at any time by clicking "Unsubscribe" or contacting us.
-
----
-
-## 14. Data Breach Notification
-
-In the event of a security breach affecting your personal information, we will:
-- Notify affected users within 72 hours (or as required by law)
-- Provide details of the breach and steps taken
-- Offer resources to protect your information
-
----
-
-## 15. Policy Updates
-
-We may update this Privacy Policy from time to time. Continued use of the Service after updates constitutes acceptance of the revised policy.
-
-**Notification:** Material changes will be communicated via email or prominent notice on the Service.
-
----
-
-## 16. Contact & Privacy Officer
-
-**Privacy Inquiries:**
-- Email: iemengly1111@gmail.com
-- Response Time: 30 days (or as required by law)
-
-**EU Residents:** If you have concerns, you may also lodge a complaint with your local data protection authority.
-
----
-
-## Compliance Standards
-
-This Privacy Policy complies with:
-- ✅ GDPR (General Data Protection Regulation) - EU
-- ✅ CCPA (California Consumer Privacy Act) - USA
-- ✅ PIPEDA (Personal Information Protection & Electronic Documents Act) - Canada
-- ✅ LGPD (Lei Geral de Proteção de Dados) - Brazil
-- ✅ POPIA (Protection of Personal Information Act) - South Africa
-- ✅ APEC Privacy Framework - Asia-Pacific
-- ✅ ISO 27001 / 27701 - Data Protection Standards
-
----
-
-**Last Review:** 2026-10-02  
-**Next Review:** 2027-10-02
+This document is not formal legal advice.
