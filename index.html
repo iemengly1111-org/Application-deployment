@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IeMengly | Affordable Software for Cambodia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f8f9fb;
+      color: #1f2937;
+    }
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    header {
+      background: #0f172a;
+      color: white;
+      padding: 20px 0;
+    }
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin-left: 20px;
+    }
+    .hero {
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: white;
+      padding: 80px 20px;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 42px;
+      margin-bottom: 20px;
+    }
+    .hero p {
+      font-size: 20px;
+      margin-bottom: 30px;
+    }
+    .btn-row {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .btn {
+      display: inline-block;
+      padding: 14px 24px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .btn-primary {
+      background: #f59e0b;
+      color: #111827;
+    }
+    .btn-secondary {
+      background: white;
+      color: #111827;
+    }
+    section {
+      padding: 60px 20px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      box-shadow: 0 3px 12px rgba(0,0,0,0.06);
+    }
+    .pricing {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+    .plan {
+      background: white;
+      border: 1px solid #e5e7eb;
+      border-radius: 12px;
+      padding: 24px;
+    }
+    .plan.featured {
+      border: 2px solid #f59e0b;
+      background: #fffaf0;
+    }
+    .price {
+      font-size: 32px;
+      font-weight: bold;
+      margin: 20px 0;
+    }
+    .faq-item {
+      background: white;
+      padding: 18px 20px;
+      margin-bottom: 12px;
+      border-radius: 8px;
+      border: 1px solid #e5e7eb;
+    }
+    footer {
+      background: #111827;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    a.footer-link {
+      color: white;
+      text-decoration: none;
+    }
+    @media (max-width: 768px) {
+      .grid, .pricing {
+        grid-template-columns: 1fr;
+      }
+      .hero h1 {
+        font-size: 30px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <div><strong>IeMengly</strong></div>
+      <div>
+        <a href="#features">Features</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#faq">FAQ</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1>Simple, affordable software for teams in Cambodia</h1>
+      <p>Organize work, reduce manual tasks, and grow with confidence.</p>
+      <div class="btn-row">
+        <a class="btn btn-primary" href="#pricing">Get Started</a>
+        <a class="btn btn-secondary" href="#contact">Book a Demo</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="features">
+    <div class="container">
+      <h2>Why teams choose us</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Easy to Use</h3>
+          <p>Simple workflow, minimal setup, and clear daily use.</p>
+        </div>
+        <div class="card">
+          <h3>Affordable Pricing</h3>
+          <p>Plans designed for small teams, businesses, and growing organizations.</p>
+        </div>
+        <div class="card">
+          <h3>Local Support</h3>
+          <p>Friendly onboarding and support for users in Cambodia.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="pricing">
+    <div class="container">
+      <h2>Pricing</h2>
+      <div class="pricing">
+        <div class="plan">
+          <h3>Starter</h3>
+          <div class="price">$20<span style="font-size:16px;">/month</span></div>
+          <p>1-5 users</p>
+          <ul>
+            <li>Basic features</li>
+            <li>Email support</li>
+            <li>Simple setup</li>
+          </ul>
+        </div>
+
+        <div class="plan featured">
+          <h3>Professional</h3>
+          <div class="price">$50<span style="font-size:16px;">/month</span></div>
+          <p>6-25 users</p>
+          <ul>
+            <li>Advanced features</li>
+            <li>Priority support</li>
+            <li>Better team workflows</li>
+          </ul>
+        </div>
+
+        <div class="plan">
+          <h3>Enterprise</h3>
+          <div class="price">$150<span style="font-size:16px;">/month</span></div>
+          <p>26-100 users</p>
+          <ul>
+            <li>Full features</li>
+            <li>Dedicated support</li>
+            <li>Custom onboarding</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <h2>Built for local teams</h2>
+      <p>
+        We provide simple, practical software for teams and businesses in Cambodia that need a reliable way to manage daily operations and improve workflow.
+      </p>
+    </div>
+  </section>
+
+  <section id="faq">
+    <div class="container">
+      <h2>FAQ</h2>
+
+      <div class="faq-item">
+        <strong>Is there a free trial?</strong>
+        <p>Yes, a 14-day trial is available for new users.</p>
+      </div>
+
+      <div class="faq-item">
+        <strong>Do you support local businesses?</strong>
+        <p>Yes, our plans are designed for Cambodian teams and businesses.</p>
+      </div>
+
+      <div class="faq-item">
+        <strong>Can I upgrade later?</strong>
+        <p>Yes, you can upgrade as your team grows.</p>
+      </div>
+
+      <div class="faq-item">
+        <strong>Do you offer support?</strong>
+        <p>Yes, we provide email support and onboarding guidance.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>Talk to us about your team and business needs.</p>
+      <p>Email: iemengly1111@gmail.com</p>
+      <a class="btn btn-primary" href="mailto:iemengly1111@gmail.com">Contact Us</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>© 2026 IeMengly</p>
+      <p>
+        <a class="footer-link" href="#">Privacy Policy</a> |
+        <a class="footer-link" href="#">EULA</a> |
+        <a class="footer-link" href="#">License</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
