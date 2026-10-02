@@ -444,6 +444,132 @@
       border: 1px solid rgba(22,163,74,0.2);
     }
 
+    .enterprise-wrap {
+      background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .enterprise-box {
+      display: grid;
+      grid-template-columns: 1fr 1.1fr;
+      gap: 28px;
+      align-items: center;
+    }
+
+    .enterprise-copy h3 {
+      font-size: clamp(2rem, 4vw, 2.8rem);
+      margin: 0 0 14px;
+    }
+
+    .enterprise-copy p {
+      margin: 0 0 20px;
+      color: var(--muted);
+      font-size: 1.05rem;
+    }
+
+    .trust-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+
+    .trust-card {
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: 0 5px 20px rgba(15, 23, 42, 0.03);
+    }
+
+    .trust-number {
+      font-size: 1.9rem;
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+
+    .trust-card p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .enterprise-panel {
+      background: linear-gradient(135deg, #111827, #1f2a3a);
+      border-radius: 20px;
+      padding: 24px;
+      color: white;
+      box-shadow: 0 18px 40px rgba(15,23,42,0.12);
+    }
+
+    .enterprise-panel .panel-heading {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      color: rgba(255,255,255,0.85);
+      font-size: 0.82rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .enterprise-panel .chip {
+      display: inline-block;
+      background: rgba(245,158,11,0.16);
+      border: 1px solid rgba(245,158,11,0.22);
+      color: #f8d98a;
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 0.72rem;
+      font-weight: bold;
+    }
+
+    .enterprise-metric {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+      margin-bottom: 20px;
+    }
+
+    .metric-box {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 12px;
+      padding: 14px;
+    }
+
+    .metric-box strong {
+      display: block;
+      font-size: 1.7rem;
+      margin-bottom: 4px;
+    }
+
+    .metric-box span {
+      color: rgba(255,255,255,0.72);
+      font-size: 0.82rem;
+    }
+
+    .enterprise-list {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 18px;
+    }
+
+    .enterprise-list li {
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: rgba(255,255,255,0.86);
+    }
+
+    .enterprise-list li::before {
+      content: "✓";
+      color: #7dd3fc;
+      font-weight: bold;
+    }
+
     .benefits-wrap {
       display: grid;
       grid-template-columns: 1.05fr 0.95fr;
@@ -638,7 +764,7 @@
     }
 
     @media (max-width: 900px) {
-      .hero-wrap, .benefits-wrap, .features-grid, .pricing-grid, .mockup-wrap {
+      .hero-wrap, .benefits-wrap, .features-grid, .pricing-grid, .mockup-wrap, .enterprise-box {
         grid-template-columns: 1fr;
       }
 
@@ -656,6 +782,10 @@
       .nav-links {
         flex-wrap: wrap;
         justify-content: center;
+      }
+
+      .enterprise-metric, .trust-grid, .stats-grid {
+        grid-template-columns: 1fr;
       }
     }
   </style>
@@ -787,6 +917,57 @@
             </ul>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="enterprise-wrap">
+    <div class="container enterprise-box">
+      <div class="enterprise-copy">
+        <h3>Built for teams that need trust, scale, and support</h3>
+        <p>As your organization grows, you need more than simple tools. You need consistent performance, clear visibility, and dependable support from a partner that understands operational growth.</p>
+
+        <div class="trust-grid">
+          <div class="trust-card">
+            <div class="trust-number">99.9%</div>
+            <p>Platform reliability for critical workflows.</p>
+          </div>
+          <div class="trust-card">
+            <div class="trust-number">24h</div>
+            <p>Fast-response support for priority issues.</p>
+          </div>
+          <div class="trust-card">
+            <div class="trust-number">Custom</div>
+            <p>Flexible onboarding for growing teams and departments.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="enterprise-panel">
+        <div class="panel-heading">
+          <span>Enterprise readiness</span>
+          <span class="chip">Trusted</span>
+        </div>
+
+        <div class="enterprise-metric">
+          <div class="metric-box">
+            <strong>2x</strong>
+            <span>Faster workflow visibility</span>
+          </div>
+          <div class="metric-box">
+            <strong>4x</strong>
+            <span>Better team coordination</span>
+          </div>
+        </div>
+
+        <ul class="enterprise-list">
+          <li>Operational reporting and visibility</li>
+          <li>Priority onboarding and setup support</li>
+          <li>Scalable growth for larger teams</li>
+          <li>Dedicated communication and account support</li>
+        </ul>
+
+        <a class="btn btn-primary" href="#contact">Request a Call</a>
       </div>
     </div>
   </section>
