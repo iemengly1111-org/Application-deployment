@@ -1,141 +1,181 @@
 # End User License Agreement (EULA)
 
-Version 2.1
+Version 2.2
 Effective Date: 2026-10-02
 Last Updated: 2026-10-02
 
-This End User License Agreement ("Agreement") is entered into by and between IeMengly ("Licensor") and the user or organization accessing or using the licensed software product and related services (the "Software").
+This End User License Agreement ("Agreement") is entered into between IeMengly ("Licensor") and the person, employee, contractor, or organization authorized to access or use the licensed software product and related services (the "Software").
 
-This Agreement governs the use of the Software by authorized users, employees, contractors, and enterprise customers who have been granted access under a valid subscription, license, or written authorization.
+This Agreement applies to paid, restricted, or internal-use access to the Software and governs the user's right to install, access, and use the Software.
 
-By installing, accessing, or using the Software, you agree to be bound by the terms of this Agreement.
+By installing, accessing, or using the Software, the user confirms that they have read, understood, and agree to be bound by this Agreement.
 
 Contact: iemengly1111@gmail.com
 
-1. Scope of License
+1. Definitions
 
-Licensor grants the user a limited, non-exclusive, non-transferable, revocable license to use the Software solely for the purposes authorized by Licensor.
+For the purposes of this Agreement:
 
-This license applies only to the uses expressly permitted under this Agreement and any applicable commercial or enterprise agreement. The Software is not sold; it is licensed.
+- "Software" means the software application, platform, tool, documentation, updates, patches, scripts, APIs, integrations, and associated materials provided by Licensor.
+- "User" means the individual, employee, contractor, authorized representative, or organization receiving access to the Software.
+- "Authorized Use" means use of the Software only for the purpose and scope expressly approved by Licensor.
+- "Account" means the user identity, login credentials, profile, access rights, subscription, or license assigned to the User.
+- "Enterprise Customer" means an organization that has entered into a paid subscription, enterprise license, or similar commercial arrangement with Licensor.
 
-2. Authorized Users
+2. Scope of License
 
-The License is limited to:
-- employees or contractors of the licensed organization;
-- authorized enterprise users under a valid subscription or agreement;
-- individuals expressly authorized by Licensor.
+Licensor grants the User a limited, non-exclusive, non-transferable, revocable license to use the Software solely for the purposes expressly authorized by Licensor.
 
-Users may not share accounts, credentials, access tokens, license keys, or subscription access with unauthorized persons.
+This license does not grant ownership of the Software or any intellectual property rights. The Software is licensed, not sold.
 
-3. License Restrictions
+The License is valid only for the User's own authorized use and is subject to all restrictions in this Agreement and any applicable subscription or enterprise agreement.
 
-Except as expressly permitted by law or written authorization from Licensor, the user must not:
-- copy, reproduce, distribute, or resell the Software;
-- modify, adapt, or create derivative works based on the Software;
-- reverse engineer, decompile, disassemble, or otherwise attempt to derive source code or underlying design from the Software;
-- remove, alter, or obscure copyright, trademark, or proprietary notices;
-- rent, lease, sublicense, or transfer the Software to any third party;
-- bypass or attempt to bypass licensing, access control, security, or authentication measures;
-- use the Software for unlawful, fraudulent, abusive, or unauthorized purposes.
+3. Authorized Users and Access Rights
 
-4. Subscription and Access Control
+The User may use the Software only if:
+- the User is an employee, contractor, or authorized representative of the licensed organization;
+- the User has been granted access by Licensor or by an authorized enterprise customer;
+- the User has not exceeded the number of seats, users, or license limits assigned to the account;
+- the User otherwise complies with this Agreement.
 
-Access to the Software may be granted under a paid subscription, enterprise license, or other written authorization. Licensor may suspend, restrict, or terminate access if:
-- payment is not received as required;
-- the user violates this Agreement;
-- the user uses the Software in a way that threatens security, compliance, or business integrity;
-- the user exceeds the scope of the licensed usage.
+The User shall not share, sell, transfer, rent, lease, or disclose access credentials, license keys, or account details to any unauthorized third party.
 
-5. Ownership
+4. Paid Subscription and Billing
 
-The Software and all related intellectual property rights remain the sole property of Licensor and its licensors. No ownership rights are transferred to the user by this Agreement.
+If the Software is provided under a paid subscription, enterprise license, or other commercial arrangement:
+- the User agrees to pay all fees due in accordance with the applicable invoice, subscription term, or enterprise agreement;
+- access may be suspended or terminated if fees are not paid on time;
+- license access may be limited by seat count, user count, region, or approved scope;
+- renewal terms, subscriptions, and billing cycles are governed by the relevant commercial arrangement and this Agreement.
 
-All content, designs, features, source code, documentation, and associated materials remain the exclusive property of Licensor unless otherwise stated in writing.
+Licensor may suspend or restrict access for overdue or unpaid accounts until the payment issue is resolved.
 
-6. Updates and Maintenance
+5. Restrictions on Use
 
-Licensor may provide updates, patches, fixes, enhancements, or revised versions of the Software. Unless otherwise stated in writing, updates remain subject to this Agreement.
+The User shall not, and shall not permit any third party to:
+- copy, reproduce, or distribute the Software or any part of it;
+- publish, sell, lease, sublicense, or transfer any license rights;
+- modify, adapt, translate, or create derivative works from the Software;
+- reverse engineer, decompile, disassemble, or otherwise attempt to reconstruct the source code or underlying design of the Software;
+- remove, alter, or hide proprietary notices, copyright marks, or trademarks;
+- bypass security controls, access restrictions, license verification, or authentication systems;
+- use the Software in a manner that violates applicable law, licenses, security policies, or the rights of others;
+- use the Software to store, process, or transmit unlawful, harmful, deceptive, or unauthorized content.
 
-Users are responsible for installing updates or security patches when required by Licensor.
+6. Security and Confidentiality
 
-7. Data and Privacy
+The User shall:
+- protect account credentials and access tokens;
+- use the Software only through approved accounts and authorized devices;
+- maintain reasonable security practices for the systems they control;
+- immediately report any suspected compromise, misuse, or unauthorized access to Licensor;
+- comply with all applicable internal security policies, if applicable.
 
-The user acknowledges that use of the Software may involve the collection, storage, processing, and transmission of personal or operational data as described in the Privacy Policy. The user agrees to use the Software in compliance with applicable privacy and security obligations.
+The User must keep confidential any non-public information related to the Software, including technical features, business logic, security controls, pricing, license terms, and related operational information.
 
-The Privacy Policy forms part of this Agreement and should be reviewed together with these terms.
+7. Data Handling and Privacy
 
-8. Security Responsibilities
+The User acknowledges that use of the Software may involve the collection, storage, processing, and transmission of personal data, operational data, or business information, as described in the Privacy Policy.
 
-The user must:
-- maintain the confidentiality of account credentials;
-- use approved access methods only;
-- avoid unauthorized disclosure of access tokens, API keys, or passwords;
-- comply with internal security policies, if applicable;
-- notify Licensor promptly of any suspected unauthorized access or misuse.
+The User agrees to use the Software in a lawful and responsible manner and to comply with all privacy, data protection, and confidentiality obligations applicable to their use of the Software.
 
-9. Third-Party Components
+Users shall not upload, store, or transmit data that is unlawful, unauthorized, abusive, harmful, or in violation of the rights of third parties.
 
-The Software may include or depend on third-party services, libraries, APIs, SDKs, or infrastructure. These components remain subject to their own licenses and terms. Licensor is not responsible for the operation or policies of third-party providers beyond the extent required by law or contract.
+8. Enterprise Customer Responsibilities
 
-10. Warranties
+If the User is acting on behalf of an Enterprise Customer, the Enterprise Customer is responsible for:
+- ensuring that access is granted only to authorized personnel;
+- maintaining secure internal controls over its users and accounts;
+- ensuring that user data, uploaded content, and account activity are lawful and authorized;
+- enforcing compliance with this Agreement among its staff and users;
+- notifying Licensor of any suspected unauthorized access affecting the Enterprise Customer's account or data.
 
-THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ACCURACY.
+The Enterprise Customer remains responsible for the actions of its employees, contractors, and authorized users.
 
-Licensor does not warrant that the Software will be uninterrupted, error-free, or fully secure in all circumstances.
+9. Support, Maintenance, and Service Availability
 
-11. Limitation of Liability
+Licensor may provide support, maintenance, updates, patches, and service improvements to the Software. Support availability and service conditions may vary by plan or agreement.
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING LOSS OF DATA, LOSS OF BUSINESS, LOSS OF PROFITS, OR OTHER SIMILAR DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+Licensor does not guarantee uninterrupted service, zero downtime, or error-free operation. The Software is provided on an "as is" basis, subject to the warranties and limitations in this Agreement.
 
-Licensor's aggregate liability for any claim arising out of this Agreement shall not exceed the fees paid for the Software in the period immediately preceding the event giving rise to the claim, or, if no fees were paid, a reasonable amount determined by Licensor.
+10. Updates and Patches
 
-12. Term and Termination
+Licensor may update, modify, patch, or enhance the Software from time to time. Updates remain subject to this Agreement unless otherwise specified in writing.
 
-This Agreement becomes effective when the user first installs, accesses, or uses the Software and continues until terminated.
+The User is responsible for applying required updates or security patches when directed by Licensor.
 
-Licensor may terminate or suspend the user's rights under this Agreement immediately if the user:
-- violates this Agreement;
-- misuses the Software or access credentials;
-- fails to comply with payment or usage obligations;
-- poses a security, legal, or operational risk.
+11. No Warranty
 
-Upon termination, the user must stop using the Software and delete or uninstall it, unless otherwise directed by Licensor.
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR SECURITY.
 
-13. Audit Rights
+Licensor does not warrant that the Software will be error-free, secure against all threats, or uninterrupted in all circumstances.
 
-Licensor may audit compliance with this Agreement, including use of licenses, subscriptions, and access permissions, provided that such audit is reasonable and conducted in accordance with applicable law and contractual obligations.
+12. Limitation of Liability
 
-14. Compliance with Law
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING LOSS OF DATA, LOST PROFITS, BUSINESS INTERRUPTION, REPUTATIONAL DAMAGE, OR OTHER SIMILAR DAMAGES ARISING FROM THE USE OF THE SOFTWARE OR THE INABILITY TO USE IT.
 
-The user agrees to use the Software in compliance with all applicable laws, regulations, and internal policies, including those relating to data protection, confidentiality, cybersecurity, and licensing.
+Licensor's total aggregate liability arising out of or relating to this Agreement shall not exceed the total fees paid by the User for the Software in the twelve (12) months preceding the event giving rise to the claim, or, if no fees were paid, a reasonable amount determined by Licensor.
 
-15. Confidentiality
+13. Indemnification
 
-The user agrees to keep confidential any non-public information obtained through the Software, including technical details, system architecture, license terms, and related business information, except where disclosure is required by law or authorized in writing by Licensor.
+The User agrees to defend, indemnify, and hold harmless Licensor, its affiliates, officers, employees, and agents from and against any claims, damages, losses, liabilities, costs, and expenses arising from:
+- the User's misuse of the Software;
+- unlawful, unauthorized, or abusive use of account access;
+- the User's failure to maintain secure access controls;
+- data or content uploaded, stored, or transmitted by the User in violation of law or this Agreement;
+- claims arising from the User's breach of confidentiality, security obligations, or applicable law.
 
-16. Governing Law
+14. Suspension and Termination
 
-This Agreement is governed by the laws of Cambodia, without regard to conflict-of-laws principles.
+Licensor may suspend or terminate the User's access to the Software at any time if:
+- the User breaches this Agreement;
+- payment is not made when due;
+- the User misuses, shares, or compromises access credentials;
+- the User engages in illegal, abusive, insecure, or unauthorized activity;
+- continued use presents a material security, operational, or legal risk;
+- Licensor determines that continued access is no longer appropriate.
 
-Any disputes arising from this Agreement shall be resolved in the competent courts of Cambodia, and the parties agree to submit to the jurisdiction of those courts.
+Upon termination or expiration, the User must stop using the Software and, where applicable, delete or uninstall the Software and related materials, unless otherwise directed by Licensor.
 
-17. Assignment
+15. Data Retention and Deletion
 
-The user may not assign or transfer this Agreement without the prior written consent of Licensor. Licensor may assign this Agreement to its affiliates, successors, or related entities.
+Licensor may retain certain operational, billing, or security-related records in accordance with applicable legal, contractual, accounting, and business requirements.
 
-18. Changes to This Agreement
+Upon request, and subject to legal retention obligations, Licensor may assist with account deactivation or deletion of user data in accordance with the Privacy Policy and applicable service terms.
 
-Licensor may update this Agreement from time to time. Continued use of the Software after such update constitutes acceptance of the revised terms.
+16. Audit Rights
 
-19. Contact
+Licensor may audit the User's compliance with this Agreement, including the number of active users, license usage, account access, and proper use of the Software, where reasonably necessary to enforce this Agreement.
 
-For questions or notices under this Agreement, contact:
+17. Compliance with Law
+
+The User agrees to use the Software in compliance with all applicable laws and regulations, including laws related to privacy, cybersecurity, data protection, anti-fraud, and intellectual property.
+
+18. Governing Law
+
+This Agreement shall be governed by the laws of Cambodia, without regard to conflict-of-laws principles.
+
+Any dispute arising from or in connection with this Agreement shall be resolved in the competent courts of Cambodia.
+
+19. Assignment
+
+The User may not assign, transfer, or sublicense this Agreement without the prior written consent of Licensor.
+
+Licensor may assign this Agreement to its affiliates, successors, or business entities in connection with a merger, reorganization, or transfer of substantially all of its business or assets.
+
+20. Changes to This Agreement
+
+Licensor may update this Agreement from time to time. Continued use of the Software after the effective date of any revision indicates acceptance of the revised terms.
+
+21. Contact
+
+For questions, legal notices, access issues, or support requests, contact:
 
 IeMengly
 Email: iemengly1111@gmail.com
 
-20. Acceptance
+22. Acceptance
 
-By installing, accessing, or using the Software, the user acknowledges that they have read, understood, and agree to be bound by this Agreement.
+By installing, registering, accessing, or using the Software, the User acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms.
 
-This EULA is intended as a practical internal-use agreement for a paid software product. It should be reviewed by legal counsel before final adoption, especially if the Software is used by multiple organizations, stores sensitive data, or is distributed outside your internal environment.
+This Agreement is intended for a paid, restricted, or internal-use software environment. It should be reviewed by legal counsel before final adoption, particularly if the Software is used by multiple organizations, handles sensitive information, or is offered commercially beyond internal operations.
