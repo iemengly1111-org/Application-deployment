@@ -17,6 +17,7 @@
       --gold-soft: #fff4d9;
       --blue: #2563eb;
       --green: #16a34a;
+      --shadow: rgba(15, 23, 42, 0.08);
     }
 
     * { box-sizing: border-box; }
@@ -250,6 +251,199 @@
       color: var(--muted);
     }
 
+    .mockup-section {
+      background: linear-gradient(180deg, #ffffff 0%, #f5f7fb 100%);
+    }
+
+    .mockup-wrap {
+      display: grid;
+      grid-template-columns: 0.9fr 1.1fr;
+      gap: 28px;
+      align-items: center;
+    }
+
+    .mockup-content h3 {
+      font-size: 2.2rem;
+      margin: 0 0 12px;
+    }
+
+    .mockup-content p {
+      color: var(--muted);
+      font-size: 1.04rem;
+      margin: 0 0 24px;
+    }
+
+    .mockup-points {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 24px;
+    }
+
+    .mockup-points li {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 12px;
+      color: var(--dark);
+      font-weight: 600;
+    }
+
+    .mockup-points li::before {
+      content: "✓";
+      color: var(--green);
+      font-weight: bold;
+      font-size: 1.1rem;
+    }
+
+    .dashboard-mockup {
+      background: #111827;
+      border-radius: 20px;
+      padding: 18px;
+      box-shadow: 0 18px 50px var(--shadow);
+      border: 1px solid rgba(255,255,255,0.06);
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #1c2434;
+      border-radius: 12px;
+      padding: 12px 14px;
+      color: white;
+      margin-bottom: 18px;
+    }
+
+    .topbar-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .topbar-left .brand-dot {
+      width: 12px;
+      height: 12px;
+      background: var(--gold);
+      border-radius: 50%;
+    }
+
+    .topbar-right {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.8);
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .stat-card {
+      background: #1f2937;
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 12px;
+      padding: 14px 12px;
+      color: white;
+    }
+
+    .stat-label {
+      color: rgba(255,255,255,0.7);
+      font-size: 0.78rem;
+      margin-bottom: 8px;
+    }
+
+    .stat-value {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+
+    .spark {
+      height: 28px;
+      width: 100%;
+      border-radius: 8px;
+      background: linear-gradient(90deg, rgba(245,158,11,0.9), rgba(37,99,235,0.9));
+      opacity: 0.85;
+    }
+
+    .content-grid {
+      display: grid;
+      grid-template-columns: 1.4fr 0.8fr;
+      gap: 12px;
+    }
+
+    .panel {
+      background: #1f2937;
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 12px;
+      padding: 14px;
+      color: white;
+    }
+
+    .chart-box {
+      height: 170px;
+      border-radius: 10px;
+      background: linear-gradient(180deg, rgba(37,99,235,0.18), rgba(245,158,11,0.08));
+      position: relative;
+      overflow: hidden;
+    }
+
+    .chart-line {
+      position: absolute;
+      left: 10px;
+      right: 10px;
+      bottom: 25px;
+      height: 120px;
+      background: repeating-linear-gradient(
+        to right,
+        transparent 0,
+        transparent 18px,
+        rgba(255,255,255,0.08) 18px,
+        rgba(255,255,255,0.08) 19px
+      );
+      border-bottom: 2px solid rgba(255,255,255,0.1);
+    }
+
+    .chart-line::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 20px;
+      bottom: 0;
+      background: linear-gradient(180deg, rgba(245,158,11,0.2), rgba(37,99,235,0.02));
+      clip-path: polygon(0 85%, 12% 72%, 25% 80%, 38% 58%, 52% 64%, 67% 42%, 82% 50%, 100% 15%, 100% 100%, 0 100%);
+    }
+
+    .table-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .table-list li {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 8px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      color: rgba(255,255,255,0.82);
+      font-size: 0.86rem;
+    }
+
+    .table-list li:last-child { border-bottom: none; }
+
+    .tag-pill {
+      display: inline-block;
+      padding: 4px 8px;
+      border-radius: 999px;
+      font-size: 0.7rem;
+      background: rgba(22,163,74,0.15);
+      color: #9ae6b4;
+      border: 1px solid rgba(22,163,74,0.2);
+    }
+
     .benefits-wrap {
       display: grid;
       grid-template-columns: 1.05fr 0.95fr;
@@ -444,7 +638,7 @@
     }
 
     @media (max-width: 900px) {
-      .hero-wrap, .benefits-wrap, .features-grid, .pricing-grid {
+      .hero-wrap, .benefits-wrap, .features-grid, .pricing-grid, .mockup-wrap {
         grid-template-columns: 1fr;
       }
 
@@ -531,6 +725,67 @@
           <div class="feature-icon">🤝</div>
           <h3>Local Support</h3>
           <p>Friendly onboarding and dependable support for users in Cambodia and beyond.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mockup-section">
+    <div class="container mockup-wrap">
+      <div class="mockup-content">
+        <h3>Built for everyday operations</h3>
+        <p>See how your team can manage work, track progress, and make better decisions faster.</p>
+        <ul class="mockup-points">
+          <li>Track workflow in real time</li>
+          <li>Reduce manual admin work</li>
+          <li>Keep teams aligned and informed</li>
+        </ul>
+        <a class="btn btn-primary" href="#contact">Talk to us</a>
+      </div>
+
+      <div class="dashboard-mockup">
+        <div class="topbar">
+          <div class="topbar-left">
+            <div class="brand-dot"></div>
+            <strong>IeMengly</strong>
+          </div>
+          <div class="topbar-right">Team Overview</div>
+        </div>
+
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-label">Active Users</div>
+            <div class="stat-value">1,284</div>
+            <div class="spark"></div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-label">Tasks</div>
+            <div class="stat-value">842</div>
+            <div class="spark"></div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-label">Workflow</div>
+            <div class="stat-value">94%</div>
+            <div class="spark"></div>
+          </div>
+        </div>
+
+        <div class="content-grid">
+          <div class="panel">
+            <div class="stat-label">Performance</div>
+            <div class="chart-box">
+              <div class="chart-line"></div>
+            </div>
+          </div>
+
+          <div class="panel">
+            <div class="stat-label">Recent Activity</div>
+            <ul class="table-list">
+              <li><span>Report sent</span> <span class="tag-pill">Done</span></li>
+              <li><span>Review</span> <span class="tag-pill">Live</span></li>
+              <li><span>Approval</span> <span class="tag-pill">Queued</span></li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
